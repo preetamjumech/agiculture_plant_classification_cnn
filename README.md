@@ -1,1 +1,1 @@
-# agiculture_plant_classification_cnn
+# agriculture_plant_classification_cnn
